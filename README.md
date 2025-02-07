@@ -1,4 +1,4 @@
-# Listify - Frontend
+# Listify
 
 Listify is a task management application that helps users organize their tasks efficiently. This repository contains the frontend built with React, while the backend is powered by Strapi.
 
